@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajshukla9797" alt="rajshukla9797" /></a> </p>
 
-- 🔭 I’m currently working on [NGO Portal Development](https://github.com/RAJSHUKLA9797/ngo_api)
 
 - 🌱 I’m currently learning **React**
 
@@ -15,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/raj-shukla-3ba17622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-shukla-3ba17622a" height="30" width="40" /></a>
 <a href="https://instagram.com/raj.shukla._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj.shukla._" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rajshukla9797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajshukla9797" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
